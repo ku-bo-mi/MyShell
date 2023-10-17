@@ -1,6 +1,6 @@
 # My Shell
 
-My Shell is a custom Unix-like shell implemented in C, designed to demonstrate my system programming skills, including process management, fork, and system calls. This project provides users with a basic yet functional command-line interface.
+My Shell is a custom Unix-like shell implemented in C, featuring process management, command execution, input/output redirection, and piping as key functionalities. This project provides users with a basic yet functional command-line interface.
 
 ## Features
 
